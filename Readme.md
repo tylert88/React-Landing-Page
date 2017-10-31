@@ -2,6 +2,6 @@
 
 
 
-![](Screen shots/1.png)
-![](Screen shots/2.png)
-![](Screen shots/3.png)
+![](ScreenShots/1.png)
+![](ScreenShots/2.png)
+![](ScreenShots/3.png)
