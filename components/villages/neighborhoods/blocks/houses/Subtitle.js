@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+
 class Subtitle extends React.Component {
   render() {
     return (
